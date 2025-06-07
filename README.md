@@ -1,1 +1,14 @@
 # REDESIGN-A-WEBSITE-LANDING-PAGE
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**: LOUIS BRITTO PM
+**INTERN ID**: CT04DL1494
+**DOMAIN**: UI/UX
+**DURATION**: 4 WEEKS 
+**MENTOR**: NEELA SANTHOSH
+# DESCRIPTION
+             The website design displayed in the image represents a stylish, vibrant, and user-centric interface for an online thrift store named “BORCELLE THRIFT,” aimed at promoting the buying and selling of secondhand clothing in a modern and appealing way. The layout prominently features a bold and clean navigation bar at the top with category links for “For Woman,” “For Man,” and “Location,” accompanied by user-interaction icons like wishlist, cart, and profile, enhancing the user experience with quick access. The hero section grabs attention immediately, showcasing an artistic image of green sneakers with bright socks placed on a yellow crate against a teal background, symbolizing playful fashion and sustainability. Beside the image is a catchy slogan, “secondhand but first choice,” which encapsulates the brand’s mission of elevating preloved fashion into a conscious and trendy lifestyle. Below this headline, a short paragraph communicates the brand’s vision: offering a simplified, eco-conscious method of buying and selling quality pre-owned clothing, with a tone that is approachable and reassuring. It emphasizes the value of extending the lifecycle of clothes by rehoming them — turning each piece into something special, filled with renewed love and purpose. The call-to-action button “Find More” in blue invites users to explore further, directing engagement deeper into the site. The next section titled “PRODUCT CATEGORIES” clearly organizes the offerings into visually engaging tiles—each accompanied by a colorful image and category label such as Sweatshirt, Bag, Outer, and Footwear. This grid layout allows easy navigation and appeals to different style preferences through its pop-art visual style and lively tones, reinforcing the youthful, creative, and fashion-forward branding. The consistent use of vibrant colors like electric blue, lime green, neon pink, and citrus orange across the interface reflects energy, positivity, and inclusivity, aligning well with the ethos of sustainable fashion that’s both fun and responsible. The entire layout is responsive and visually structured to create a smooth shopping experience, especially for a digital-savvy generation that values both style and sustainability. In summary, this webpage design for BORCELLE THRIFT cleverly combines aesthetics and functionality to promote secondhand clothing as a first-choice alternative, presenting a strong identity through its tagline, cohesive color palette, intuitive layout, and a clear call to action—positioning itself as not just a marketplace, but a movement toward conscious consumerism in the digital age.
+# OUTPUT
+
+
+             
+             
